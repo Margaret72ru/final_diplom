@@ -1,0 +1,12 @@
+Django
+django-rest-passwordreset
+djangorestframework
+flake8
+isort
+PyYAML
+requests
+ujson
+redis
+eventlet
+model_bakery
+celery
